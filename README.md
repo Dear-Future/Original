@@ -1,5 +1,4 @@
-# Original by Dear-Future
-# Dear-Future All Rights Reserved
+# Original by Dear-Future     # Dear-Future All Rights Reserved
 
 是什么阻止了本应该更优秀的你（个人、公司、企业、集团）？
 
