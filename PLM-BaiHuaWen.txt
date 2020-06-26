@@ -1,5 +1,6 @@
 # Original by Dear-Future # Dear-Future All Rights Reserved
 
+
 PLM-白话文
 
 这里要说的PLM是产品生命周期管理（Product LifeCycle Management），其他任何类型的解释均不在本次白话文范围，用简单的方式，实现清晰易懂的表达；
